@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754437964727",
+    "project_id": "smartpettracker-6002f",
+    "storage_bucket": "smartpettracker-6002f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754437964727:android:c86d6492fbd2a965435e32",
+        "android_client_info": {
+          "package_name": "com.example.smartpettracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlH_eGiuPqa4IOjnbK4EKB-v9QD076aFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
